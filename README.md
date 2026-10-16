@@ -27,5 +27,4 @@ Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları sıras�
 
 ### 1. Repoyu Klonlayın ve Proje Klasörüne Girin
 ```bash
-git clone <GITHUB_REPO_LINKINIZ>
 cd financial-news-sentiment-market-modeling
