@@ -20,3 +20,12 @@ Güncel finansal haberlerin ve borsa bültenlerinin şirket hisse fiyat hareketl
 
 ## Dokümantasyon
 Vize kapsamında hazırlanan Analiz Raporu, Gereksinimler, Use Case Diyagramları ve Test Senaryoları `docs/` klasöründe yer almaktadır.
+
+## Projeyi Çalıştırma (Kurulum Adımları)
+
+Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları sırasıyla terminalde çalıştırabilirsiniz:
+
+### 1. Repoyu Klonlayın ve Proje Klasörüne Girin
+```bash
+git clone <GITHUB_REPO_LINKINIZ>
+cd financial-news-sentiment-market-modeling
