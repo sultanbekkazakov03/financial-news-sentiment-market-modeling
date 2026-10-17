@@ -19,5 +19,5 @@ Güncel finansal haberlerin ve borsa bültenlerinin şirket hisse fiyat hareketl
 * **Görselleştirme / Dashboard:** Matplotlib, Seaborn, Streamlit
 
 ## Dokümantasyon
-Vize kapsamında hazırlanan Analiz Raporu, Gereksinimler, Use Case Diyagramları ve Test Senaryoları `docs/` klasöründe yer almaktadır.
 
+Vize teslimi kapsamında hazırlanan Analiz Raporu, Müşteri/Sistem Gereksinimleri, Use Case Senaryoları, Kabul Kriterleri ve Test Senaryolarının tamamını içeren kapsamlı proje raporuna [`docs/vize_dokumantasyonu.md`](docs/vize_dokumantasyonu.md) dosyası üzerinden ulaşabilirsiniz.
