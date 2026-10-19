@@ -7,10 +7,10 @@ Güncel finansal haberlerin ve borsa bültenlerinin şirket hisse fiyat hareketl
 
 ## Proje Ekibi
 * [Zamıra Babahanova] - [95230102]
-* [Zeynep karakaya] - [95230042]
+* [Zeynep Karakaya] - [95230042]
 * [Begench Rejepov] - [95230197]
 * [Sultanbek Kazakov] - [95230117]
-* [Gizem doğan] - [95240148]
+* [Gizem Doğan] - [95240148]
 
 ## Kullanılan Teknolojiler
 * **Programlama Dili:** Python 3.10+
