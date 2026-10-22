@@ -25,4 +25,4 @@ Vize proje gereksinimleri ve teknik modüller doğrultusunda ekip üyelerinin ç
 
 ## Dokümantasyon
 
-Vize teslimi kapsamında hazırlanan Analiz Raporu, Müşteri/Sistem Gereksinimleri, Use Case Senaryoları, Kabul Kriterleri ve Test Senaryolarının tamamını içeren kapsamlı proje raporuna [`docsvize_dokumantasyonu.md`](docsvize_dokumantasyonu.md) dosyası üzerinden ulaşabilirsiniz.
+Vize teslimi kapsamında hazırlanan Analiz Raporu, Müşteri/Sistem Gereksinimleri, Use Case Senaryoları, Kabul Kriterleri ve Test Senaryolarına [`docsvize_dokumantasyonu.md`](docsvize_dokumantasyonu.md) dosyası üzerinden ulaşabilirsiniz.
