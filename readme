@@ -1,0 +1,3 @@
+Projeyi çalıştırmak için Terminale:
+streamlit run app.py
+yazılması yeterlidir 
