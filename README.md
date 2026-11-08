@@ -14,8 +14,8 @@ Vize proje gereksinimleri ve teknik modüller doğrultusunda ekip üyelerinin ç
 | 1 | **Gizem Doğan** | 95240148 | **Analiz Raporu:** Sektörel motivasyon, problem tanımı ve uçtan uca çözüm yaklaşımı | Veri akış analizi ve model çıktı raporlama süreçleri |
 | 2 | **Zamıra Babahanova** | 95230102 | **Müşteri & Genel Gereksinim Raporu:** Paydaş beklentileri, fonksiyonel (FR) ve genel (NFR) gereksinimler | Yahoo Finance piyasa veri hattı entegrasyonu (`01_market_data.py`) |
 | 3 | **Zeynep Karakaya** | 95230042 | **Use Case & Akış Diyagramları:** Sistem aktörleri, UC-01..08 senaryoları ve süreç akış şemaları | FinBERT LLM haber duygu analizi hattı (`02_sentiment_analysis.py`) |
-| 4 | **Begench Rejepov** | 95230197 | **Kabul Kriterleri & Test Senaryoları:** Metrik kabul sınırları (AC-01..12) ve 26 maddelik sistem doğrulama matrisi (T-01..26) | Ekonometrik regresyon modeli ve istatistiksel analiz (`03_regression_model.py`) |
-| 5 | **Sultanbek Kazakov** | 95230117 | **İş Zekası & Dokümantasyon Mimarisi:** Karar destek panosu tasarımı ve vize dokümantasyon entegrasyonu | Streamlit web karar destek paneli ve Plotly görselleştirmeleri (`app.py`) |
+| 4 | **Begench Rejepov** | 95230197 | **Test Senaryoları (Test Cases):** 26 maddelik sistem doğrulama matrisi (T-01..26) ve uçtan uca test koşumları | Ekonometrik regresyon modeli ve istatistiksel analiz (`03_regression_model.py`) |
+| 5 | **Sultanbek Kazakov** | 95230117 | **Kabul Kriterleri & İş Zekası Mimarisi:** Metrik kabul sınırları (AC-01..12), karar destek panosu tasarımı ve vize dokümantasyon entegrasyonu | Streamlit web karar destek paneli ve Plotly görselleştirmeleri (`app.py`) |
 
 ## Kullanılan Teknolojiler
 * **Programlama Dili:** Python 3.10+
